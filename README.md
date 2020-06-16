@@ -29,12 +29,12 @@ A platform for two-way inquiries about vacancies in school courses and job searc
 
 #### 工作分配 task allocation
 
-- <font size ="2">校內課程資料爬蟲 (Course Information Crawling):  @chiachichung </font>
+- <font size ="2">校內課程資料爬蟲 (Course Information Crawling):  鍾家祺(@chiachichung) </font>
 - <font size ="2">求職網站資料爬蟲 (Jobs Information Crawling): 
-  @Yu-Chieh-Lin @yac0819 </font>
+  林鈺潔(@Yu-Chieh-Lin) 陳怡安(@yac0819) </font>
 - <font size ="2">資料庫處理及Restful Api開發 (Database processing and Restful Api development): 
-  @yac0819 </font>
+  陳怡安(@yac0819) </font>
 - <font size ="2">前端頁面及功能開發 (Front end pages development): 
-  @chiachichung @yac0819 @賀郁婷 @楊博鈁</font>
+  鍾家祺(@chiachichung) 陳怡安(@yac0819) @賀郁婷 @楊博鈁</font>
 - <font size ="2">UI設計 (UI Design): 
   @黃筱茜</font>
